@@ -1,12 +1,11 @@
 // config 
 const firebaseConfig = {
-    apiKey: "AIzaSyCr-fffFibV_HbKCtPvo-p3lIdVKlPGKVE",
-    authDomain: "lezione-db.firebaseapp.com",
-    databaseURL: "https://lezione-db-default-rtdb.firebaseio.com",
-    projectId: "lezione-db",
-    storageBucket: "lezione-db.appspot.com",
-    messagingSenderId: "1007031926834",
-    appId: "1:1007031926834:web:e4fe569becc4cec78d3c2b"
+    apiKey: "AIzaSyBOP5BwiCVfYsGt1CgDMWhdabEdxsMwFY8",
+    authDomain: "snake-ea88f.firebaseapp.com",
+    projectId: "snake-ea88f",
+    storageBucket: "snake-ea88f.appspot.com",
+    messagingSenderId: "698454681143",
+    appId: "1:698454681143:web:ffc50565c9cf4e00b2c1b2"
 };
 
 
